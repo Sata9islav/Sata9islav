@@ -56,6 +56,10 @@ I am open to job offers and I want to apply my knowledge in a combat project!
   <td>Parser for online shop</td>
   <td>Completed</td>
 </tr>
+<tr>
+  <td><a href =  "https://github.com/Sata9islav/OCR_for_chinese">Research ocr models for the chinese language.</a></td>
+  <td>Research OCR models</td>
+  <td>Completed</td>
 </table>
 
 ## [Kaggle (follow the link)](https://github.com/Sata9islav/Kaggle)
