@@ -7,7 +7,7 @@ I am open to job offers and I want to apply my knowledge in a combat project!
 \#opentowork \#ML \#DataScience \#Python
 
 ## My contacts:
-- [wolfdieattheend@yandex.ru](mailto:wolfdieattheend@yandex.ru) - write to me by Email.
+- [Sata9islav@gmail.com](mailto:Sata9islav@gmail.com) - write to me by Email.
 - [@Sta9islaus](https://t.me/Sta9islaus) - my telegram.
 
 ## My resume:
