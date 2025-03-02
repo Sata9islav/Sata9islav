@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Sata9islav)
 
 # Hi, I'm Stas!
-I am an aspiring Data Science specialist who loves machine learning, analytics and programming.
+I am Data Science specialist who loves machine learning, analytics and programming.
 I am open to job offers and I want to apply my knowledge in a combat project!
 
 \#opentowork \#ML \#DataScience \#Python
