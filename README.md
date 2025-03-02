@@ -37,6 +37,11 @@ I am open to job offers and I want to apply my knowledge in a combat project!
   <td>Distance</td>
   <td>Completed</td>
 </tr>
+<tr>
+ <td><a href = "https://github.com/Sata9islav/cpp-test-repo">C++ Developer</a></td>
+ <td>Distance</td>
+ <td>In progress</td>
+</tr>
 </table>
 
 ## My project:
