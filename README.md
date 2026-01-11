@@ -16,14 +16,16 @@ I am open to job offers and I want to apply my knowledge in a combat project!
 
 - [resume]
 
-## [My project's (follow the link)](https://github.com/Sata9islav/projects)
+## Project's:
 
-## [Hexlet's projects (follow the link)](https://github.com/Sata9islav/hexlet_projects)
+### [My project's (follow the link)](https://github.com/Sata9islav/projects)
 
-## [Yandex_ds_projects (follow the link)](https://github.com/Sata9islav/yandex_ds_projects)
+### [Hexlet's projects (follow the link)](https://github.com/Sata9islav/hexlet_projects)
 
-## [Yandex_cpp_projects (follow the link)](https://github.com/Sata9islav/yandex_cpp_projects)
+### [Yandex_ds_projects (follow the link)](https://github.com/Sata9islav/yandex_ds_projects)
 
-## [Kaggle (follow the link)](https://github.com/Sata9islav/Kaggle)
+### [Yandex_cpp_projects (follow the link)](https://github.com/Sata9islav/yandex_cpp_projects)
 
-## [Hackathons (follow the link)](https://github.com/Sata9islav/Hackathons)
+### [Kaggle (follow the link)](https://github.com/Sata9islav/Kaggle)
+
+### [Hackathons (follow the link)](https://github.com/Sata9islav/Hackathons)
